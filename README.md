@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### Who am I? 
+My name is Vitor and I’m a PHP Developer and Web Engineer with almost a decade of industry experience 👴🏼. Aside from development, I also have a solid understanding of digital marketing tools and techniques such as PPC and Marketing Automation.
+
+#### Reach me 📫
+
+- [Twitter](https://twitter.com/vitorarjol)
+- [LinkedIn](https://www.linkedin.com/in/vítor-arjol-de-ataíde-70990a6a)
+
+
 <!--
 **vitorarjol/vitorarjol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
