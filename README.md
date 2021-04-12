@@ -5,7 +5,7 @@ My name is Vitor and I’m a PHP Developer and Web Engineer with almost a decade
 
 #### Reach me 📫
 
-- [Twitter](https://twitter.com/vitorarjol)
+- [Twitter](https://twitter.com/arjol_dev_feed)
 - [LinkedIn](https://www.linkedin.com/in/vítor-arjol-de-ataíde-70990a6a)
 
 
